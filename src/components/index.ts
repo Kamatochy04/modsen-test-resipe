@@ -10,4 +10,4 @@ export { default as ResipeCard } from './RecipeCard/RecipeCard';
 export { default as RecipeFilter } from './RecipeFilter/RecipeFilter';
 export { default as RecipesList } from './RecipesList/RecipesList';
 export { default as Switch } from './Switch/Switch';
-export { default as TypeSelect } from './TypeSelect';
+export { default as TypeSelect } from './TypeSelect/TypeSelect';
